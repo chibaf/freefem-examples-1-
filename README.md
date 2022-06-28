@@ -1,6 +1,6 @@
 # freefem-examples-1-
 
-sample p
+sample programs for FreeFEM++
 
 sample1.edp - simple sample ptrogram for FreeFEM++
 
